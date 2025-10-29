@@ -1,7 +1,6 @@
 <div align="center">
   <img height="150" src="github-header-banner.png"  />
-  ![Header](./[<img width="2125" height="575" alt="image" src="https://github.com/user-attachments/assets/62a9e498-ff75-42aa-8ed7-67f3ecd3c2c8" />
-])
+<img width="2125" height="575" alt="image" src="https://github.com/user-attachments/assets/62a9e498-ff75-42aa-8ed7-67f3ecd3c2c8" />
 </div>
 <h1 align="center">Hi 👋, I'm Aaditya Patil</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
