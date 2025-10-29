@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="github-header-banner.png"  />
   ![Header](./github-header-banner.png)
 </div>
 <h1 align="center">Hi 👋, I'm Aaditya Patil</h1>
