@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  ![Header](./your-header-image-name.png)
+  ![Header](./github-header-banner.png)
 </div>
 <h1 align="center">Hi 👋, I'm Aaditya Patil</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
