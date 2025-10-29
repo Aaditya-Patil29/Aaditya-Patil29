@@ -1,5 +1,5 @@
 <div align="center">
-<img width="2125" height="575" alt="image" src="[https://github.com/user-attachments/assets/62a9e498-ff75-42aa-8ed7-67f3ecd3c2c8](https://raw.githubusercontent.com/Aaditya-Patil29/repo-banner/refs/heads/main/github-header-banner%20(1).png)"
+<img width="2125" height="575" alt="image" src="https://raw.githubusercontent.com/Aaditya-Patil29/repo-banner/refs/heads/main/github-header-banner%20(1).png"
 </div>
 <h1 align="center">Hi 👋, I'm Aaditya Patil</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
