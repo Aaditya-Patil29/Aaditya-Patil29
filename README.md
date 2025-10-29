@@ -74,12 +74,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<p>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aaditya-Patil29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aaditya-Patil29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Patil29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+https://github-readme-stats.vercel.app/api?username=Aaditya-Patil29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+https://nirzak-streak-stats.vercel.app/?user=Aaditya-Patil29&theme=dark&hide_border=false)<br/>
+https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Patil29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
