@@ -86,19 +86,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Patil29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Aaditya-Patil29/repo-banner/refs/heads/main/github-header-banner%20(1).png"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Patil29/Aaditya-Patil29/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Patil29/Aaditya-Patil29/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aaditya-Patil29/Aaditya-Patil29/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
