@@ -1,4 +1,5 @@
-<img width="2125" height="575" alt="image" src="https://raw.githubusercontent.com/Aaditya-Patil29/repo-banner/refs/heads/main/github-header-banner%20(1).png"
+<div align="center">
+  <img width="2125" height="575" alt="image" src="https://raw.githubusercontent.com/Aaditya-Patil29/repo-banner/refs/heads/main/github-header-banner%20(1).png"
 </div>
 <h1 align="center">Hi 👋, I'm Aaditya Patil</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
