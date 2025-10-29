@@ -1,4 +1,3 @@
-<div align="center">
 <img width="2125" height="575" alt="image" src="https://raw.githubusercontent.com/Aaditya-Patil29/repo-banner/refs/heads/main/github-header-banner%20(1).png"
 </div>
 <h1 align="center">Hi 👋, I'm Aaditya Patil</h1>
