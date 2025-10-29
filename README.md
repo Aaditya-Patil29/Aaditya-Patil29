@@ -1,6 +1,6 @@
-<div>
-<img width="2125" height="575" alt="image" src="https://raw.githubusercontent.com/Aaditya-Patil29/repo-banner/refs/heads/main/github-header-banner%20(1).png"
-  </div>
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/Aaditya-Patil29/repo-banner/refs/heads/main/github-header-banner%20(1).png"  />
+</div>
 <h1 align="center">Hi 👋, I'm Aaditya Patil</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
 
@@ -74,6 +74,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Patil29/Aaditya-Patil29/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Patil29/Aaditya-Patil29/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aaditya-Patil29/Aaditya-Patil29/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aaditya-Patil29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
