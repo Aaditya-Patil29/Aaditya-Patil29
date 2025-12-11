@@ -84,3 +84,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Aaditya-Patil29}&theme={radical}&exclude={exclude}
